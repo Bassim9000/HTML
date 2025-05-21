@@ -1,2 +1,59 @@
-# HTML
-Les présentation des animaux
+
+<html lang="fr">
+<head>
+<title> Les présentations des animaux  </title>
+</head>
+<body style="background-color:darkblue">
+<h1 style="color:red";> La girafe </h1>
+<p style="color: white;">La girafe est un animal majestueux et élancé, connu pour son long cou qui lui permet d’atteindre les feuilles les plus hautes des arbres. Avec ses pattes longues et son allure gracieuse, elle semble presque flotter lorsqu’elle se déplace dans la savane. Son pelage tacheté, unique à chaque individu, lui offre un excellent camouflage parmi les branches et les hautes herbes.
+Malgré sa grande taille, la girafe est étonnamment paisible et silencieuse. Elle passe la majorité de son temps à manger, utilisant sa langue flexible et puissante pour arracher les feuilles. Curieuse par nature, elle observe attentivement son environnement, mais reste toujours sur ses gardes face aux prédateurs.
+Avec son apparence immense et magnifique, la girafe incarne parfaitement la beauté et la diversité de la faune africaine. Elle est un symbole de la force tranquille, mêlant puissance et élégance.</p>
+<h1 style="color:red";> Le crocodile </h1>
+<p style="color: white;">Le crocodile est un animal impressionnant et puissant, connu pour sa carapace écailleuse et sa mâchoire redoutable. Avec son corps allongé, ses pattes courtes mais robustes, et sa queue musclée, il est parfaitement adapté à la vie aquatique. Ce reptile préhistorique semble tout droit venu d’un autre temps, avec son apparence rugueuse et ses yeux perçants qui émergent discrètement à la surface de l’eau.
+Le crocodile est un prédateur patient et stratégique, capable de rester immobile pendant des heures en attendant le moment parfait pour attaquer. Furtif dans l’eau, il est aussi extrêmement rapide lorsqu’il bondit sur sa proie, démontrant une force écrasante.
+Bien qu’il puisse sembler effrayant et imposant, le crocodile joue un rôle essentiel dans l’écosystème, régulant les populations d’autres espèces et maintenant l’équilibre naturel. À la fois implacable et fascinant, il est une preuve vivante de l’adaptation et de la résilience du monde animal. </p>
+<h1 style="color:red";> La tortue </h1>
+<p style="color:white";> La tortue est un animal calme et paisible , connu pour sa démarche lente et sa nature silencieuse . Avec sa carapace solide et écailleuse , elle semble à la fois résistance et ancienne , évoquant une connexion profonde avec l'histoire de la Terre. Certaines tortues sont terrestres , évoluant sur le sol avec méthodepatience , tandis que d'autres, comme les tortues marines, sont aquatiques et dotées de nageoires qui les rendent gracieuses dans l'eau.
+Symboliquement, la tortue est souvent associée à la sagesse et à la longévité . Dans de nombreuses cultures, elle incarne la tenacité et la résilience , avançant toujours, même fac.timide et discret reflète une grande humilité, tandis que sa carapace lui offre une protection inébranlable, un véritable bouclier
+Qu'elle soit petite ou grande , la tortue fascine par son allure mystique et son mode de vie durable , un exemple parfait de coexistence harmonieuse avec la nature.</p>
+<h1 style="color:red";> Le dophin </h1>
+<p style="color:white";> Le dauphin est un mammifère marin fascinant, reconnu pour son intelligence exceptionnelle et son comportement amical. Grâce à son corps fuselé et sa peau lisse, il se déplace rapidement et avec élégance dans l’eau. Très sociable, il vit en groupes appelés bancs, où règne une grande coopération entre les membres.
+Joueur et curieux, il est connu pour interagir avec les humains, souvent avec une attitude protectrice. Les dauphins communiquent entre eux par des sons variés comme des sifflements et des clics, formant un langage complexe. Ils possèdent également un sens de l’écholocation, leur permettant de se repérer dans les profondeurs marines. Fascinants et pleins de vie, ces animaux symbolisent l’harmonie avec la nature.</p>
+<h1 style="color:red";> La vipère </h1>
+<p style="color:white";>La vipère est un serpent venimeux redouté pour son agilité et son morsure dangereuse. Elle possède un corps trapu, des écailles rugueuses et une tête triangulaire caractéristique. Préférant les endroits calmes, elle vit souvent dans les prairies, les forêts ou les zones rocailleuses.
+Discrète et solitaire, la vipère n'attaque que si elle se sent menacée. Elle se nourrit principalement de petits rongeurs, jouant ainsi un rôle important dans l’écosystème. Grâce à son venin, elle paralyse ses proies avant de les avaler. Bien qu’impressionnante, elle contribue à l’équilibre naturel et mérite d’être respectée. </p>
+<h1 style="color:red";> Le lièvre </h1>
+<p style="color:white";> Le lièvre est un mammifère agile et rapide, connu pour sa capacité à courir à grande vitesse pour échapper aux prédateurs. Il vit dans les champs, les prairies et les forêts, où il se nourrit principalement d'herbes, de plantes et d'écorces.
+Avec ses longues oreilles et ses pattes postérieures puissantes, il est parfaitement adapté à la course et aux bonds spectaculaires. Solitaire et discret, le lièvre est surtout actif au crépuscule et à l’aube. Sa capacité à se fondre dans son environnement en fait un expert de la survie face aux dangers. </p>
+<h1 style="color:red";> La poule </h1>
+<p style="color:white";> La poule est un oiseau domestique connu pour sa capacité à pondre des œufs, ce qui en fait un animal essentiel dans de nombreuses fermes. Elle vit généralement en groupe, dans un poulailler, et se nourrit de grains, d'insectes et de végétaux.
+Avec son plumage coloré, ses pattes griffues et sa crête rouge caractéristique, la poule est facile à reconnaître. Sociable et curieuse, elle passe ses journées à picorer et à explorer son environnement. Elle joue un rôle important dans l’agriculture et constitue une source précieuse de nourriture pour les humains. </p>
+<h1 style="color:red";> Le lion </h1>
+<p style="color:white";> Le lion est un grand félin majestueux, souvent appelé le "roi des animaux" en raison de sa puissance et de sa position dominante dans la chaîne alimentaire. Il vit principalement dans les savanes et les prairies africaines, où il forme des groupes sociaux appelés "troupeaux".
+Avec sa crinière imposante, surtout chez les mâles, et ses muscles puissants, le lion est un prédateur redoutable. Il chasse en groupe, utilisant la stratégie pour capturer de grandes proies. Bien qu’il soit un symbole de courage et de force, le lion est également un animal vulnérable, dont les populations sont menacées par la perte de leur habitat. </p>
+<h1 style="color:red";> La chevrette </h1>
+<p style="color:white";> La chevrette est une jeune chèvre, souvent appelée ainsi avant d’atteindre l’âge adulte. Elle est agile et curieuse, se déplaçant rapidement dans les terrains montagneux ou les prairies. Avec son pelage doux et ses petites cornes, elle est particulièrement mignonne lorsqu'elle gambade.
+Sociale, la chevrette aime rester proche de sa mère ou des autres membres du troupeau. Elle se nourrit principalement de plantes, d’herbes et de feuillage, et apprend dès son plus jeune âge à s’adapter à son environnement. En grandissant, elle se transforme en une chèvre adulte, tout aussi agile et robuste. </p>
+<h1 style="color:red";> Le cochon </h1>
+<p style="color:white";> Le cochon est un mammifère domestique, apprécié pour sa viande, mais également reconnu pour son intelligence et sa curiosité. Il possède un corps robuste, une peau souvent rosée et un groin caractéristique qu’il utilise pour fouiller le sol à la recherche de nourriture.
+Très social, il vit généralement en groupe et peut être étonnamment propre malgré sa réputation. Le cochon se nourrit de restes alimentaires, de céréales et de légumes. Bien qu'il soit souvent associé à l’agriculture, il joue également un rôle important dans l’écosystème, contribuant à l’élimination des déchets organiques. </p>
+<h1 style="color:red";> L’hippopotame  </h1>
+<p style="color:white";> L’hippopotame est un mammifère massif et semi-aquatique, vivant dans les rivières et les lacs d’Afrique. Avec son corps trapu, sa large gueule et ses crocs impressionnants, il est l’un des animaux les plus puissants de son habitat.
+Il passe la majeure partie de la journée dans l’eau pour se rafraîchir et se protéger du soleil, ne sortant qu’à la tombée de la nuit pour brouter de l’herbe. Bien qu’herbivore, il est territorial et peut devenir très agressif en cas de menace. L’hippopotame joue un rôle écologique important, notamment en fertilisant les cours d’eau avec ses déjections. </p>
+<h1 style="color:red";> La louve </h1>
+<p style="color:white";> La louve est une femelle du loup, un carnivore social et intelligent vivant en meute. Elle joue un rôle central dans le groupe, notamment en tant que chasseuse et protectrice de ses petits. Avec son pelage dense et ses yeux perçants, elle est parfaitement adaptée aux environnements variés, comme les forêts, les montagnes et les plaines.
+La louve est une mère attentive, élevant ses louveteaux avec soin et leur enseignant les compétences nécessaires pour survivre. Elle communique avec sa meute par des hurlements, des postures et des expressions faciales. Majestueuse et redoutable, elle est un symbole de force et de dévouement. </p>
+<h1 style="color:red";> Le tigre </h1>
+<p style="color:white";> Le tigre est un grand félin majestueux, connu pour son pelage rayé unique et sa puissance impressionnante. Il vit principalement en Asie, dans des habitats variés tels que les forêts tropicales, les marécages et les montagnes.
+Prédateur solitaire, il chasse principalement de grandes proies comme les cerfs et les sangliers, grâce à sa force et son agilité. Le tigre est aussi un excellent nageur, souvent observé se rafraîchissant dans les rivières ou les lacs. Symbole de puissance et de courage, il est cependant une espèce menacée, en raison de la destruction de son habitat et du braconnage. </p>
+<h1 style="color:red;"> La fourmi </h1>
+<p style="color:white";> Une fourmi est un insecte social de la famille des Formicidae, vivant en colonies organisées. Elles possèdent une hiérarchie stricte comprenant des reines, des ouvrières et des soldats. Les fourmis utilisent des phéromones pour communiquer et peuvent former des structures vivantes. Certaines colonies comptent des millions de membres, travaillant ensemble pour construire des nids, chercher de la nourriture et protéger leur habitat. Leur capacité à collaborer et leur organisation sophistiquée font d'elles des créatures fascinantes et essentielles à l'écosystème. </p>
+  <h1 style="color:red";> La jument </h1>
+<p style="color:white";> Une jument est la femelle du cheval. Elle peut être utilisée pour l’équitation, l’agriculture ou les courses hippiques. Comme les chevaux, elle appartient à la famille des équidés. Une jument peut donner naissance à un poulain après une gestation d’environ 11 mois. Elle peut vivre entre 25 et 30 ans selon les soins qu’elle reçoit. Certaines races de juments sont réputées pour leur rapidité, d’autres pour leur force ou leur endurance. Elles peuvent être dressées pour différents travaux ou disciplines sportives. Les juments vivent souvent en troupeau, dirigé par un étalon. </p>
+<h1 style="color:red";> Le cerf </h1>
+  <p style="color:white";> Le cerf est un grand mammifère herbivore de la famille des cervidés, souvent reconnu pour ses bois impressionnants, qui sont principalement portés par les mâles. Il vit généralement dans les forêts, les prairies ou les montagnes, où il se nourrit d'herbes, de feuilles, de racines et de fruits.
+Les bois du cerf, qui tombent chaque année et repoussent, sont utilisés pour se défendre contre d'autres mâles lors des combats pendant la sai
+Symbolisant la beauté et la majesté de la nature, le cerf est également une espèce importante dans l'écosystème, contribuant à l'équilibre de la végétation. </p>
+</body>
+</html>
+
